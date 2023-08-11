@@ -20,6 +20,14 @@ input boundary and initial conditions
 
 # Gaussian initial condition, 0-degree boundary conditions
 
+2d version:
+
 ![image](https://github.com/MasterMeep/Heat-Equation-PINN-prediction/assets/51376656/79078922-452b-42c5-ab52-a592fd6e6b1a)
 
+3d version:
+
 ![image](https://github.com/MasterMeep/Heat-Equation-PINN-prediction/assets/51376656/dcaed8a3-c26a-4d98-b115-b6001f94f7fc)
+
+input boundary and initial conditions
+
+![image](https://github.com/MasterMeep/Heat-Equation-PINN-prediction/assets/51376656/5056a07d-b1e2-4666-b081-66447da98624)
