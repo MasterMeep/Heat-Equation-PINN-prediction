@@ -1,6 +1,8 @@
 # Heat-Equation-PINN-prediction
 using a PINN architecture, this model generates a predicted solution of the heat equation over a timeframe
 
+for each graph, the time dimension represents snapshots of the rods temperature distribution at a point in time/ the x dimension represents positions on the rod, i.e the x-axis is the rod at time $t$, and the z axis is temperature
+
 used heat equation ${\displaystyle {\frac {\partial u}{\partial t}}=\alpha \left({\frac {\partial ^{2}u}{\partial x^{2}}}\right)}$
 
 epochs per example: 15000
