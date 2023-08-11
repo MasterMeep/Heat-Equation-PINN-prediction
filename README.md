@@ -13,6 +13,11 @@ timeframe: 2
 
 ![image](https://github.com/MasterMeep/Heat-Equation-PINN-prediction/assets/51376656/798b3c15-deb3-4d76-a8dd-0b7c136c7605)
 
+input boundary and initial conditions
+
+![image](https://github.com/MasterMeep/Heat-Equation-PINN-prediction/assets/51376656/6d3261db-44e8-4e03-b844-bffc840540d7)
+
+
 # Gaussian initial condition, 0-degree boundary conditions
 
 ![image](https://github.com/MasterMeep/Heat-Equation-PINN-prediction/assets/51376656/79078922-452b-42c5-ab52-a592fd6e6b1a)
